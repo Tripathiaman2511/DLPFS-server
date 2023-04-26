@@ -10,9 +10,9 @@ Data leakage prevention (DLP) is a technique used by organizations to prevent th
 Serve Side works with the API designed to convert the confidential data into public data by using techniques like *MASKING* or *REPALCEMENT*
 
 ### Text Extraction 
-![alt text](image.jpg)
+![Text Extraction](https://github.com/Tripathiaman2511/DLPFS-server/blob/main/serverImage/text%20Extract.png)
 ### Text Anonymizer
-![alt text](image.jpg)
+![Text Anonymizer](https://github.com/Tripathiaman2511/DLPFS-server/blob/main/serverImage/Anonymizer.png)
 
 
 # How to Work on this project?
