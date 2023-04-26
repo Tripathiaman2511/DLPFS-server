@@ -19,7 +19,7 @@ app.use('/read',Read)
 app.use('/login',Login)
 app.use('/createUser',createUser)
 app.use('/updateUser',updateUser)
-app.use('/removeUser',removeUser)
+app.use('/removeUser',removeUser)       
 app.use('/getUser',getUser)
 
 
